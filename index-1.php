@@ -1,7 +1,7 @@
 <?php
 /* Required settings     */
 $CLOAKING['WHITE_PAGE'] = 'a-1.php';//PHP/HTML file or URL used for bots
-$CLOAKING['OFFER_PAGE'] = 'offer.php';//PHP/HTML file or URL offer used for real users
+$CLOAKING['OFFER_PAGE'] = 'https://grapemedia.herokuapp.com/';//PHP/HTML file or URL offer used for real users
 $CLOAKING['DEBUG_MODE'] = 'off';// replace "on" with "off" to switch from debug to production mode
 $CLOAKING['STEALTH'] = 'off';// replace "on" with "off" to hide stat page
 /*********************************************/
